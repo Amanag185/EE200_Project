@@ -1,8 +1,8 @@
-# 📡 EE200: Digital Signal Processing (Q1 & Q2)
+# 📡 EE200: Digital Signal Processing 
 
 **Zapptain America Team Project | Signals, Systems & Networks**
 
-This repository contains the foundational Digital Signal Processing (DSP) algorithms and analyses developed for Questions 1 and 2 of our EE200 coursework. These scripts demonstrate core principles of signal manipulation, frequency-domain analysis, and robust acoustic feature extraction.
+This repository contains the foundational Digital Signal Processing (DSP) algorithms and analyses developed for Questions 1 and 2 of our EE200 coursework project. These scripts demonstrate core principles of signal manipulation, frequency-domain analysis, and robust acoustic feature extraction.
 
 ---
 
