@@ -45,7 +45,7 @@ To isolate mathematically robust anchor points within a dense audio spectrogram,
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Amanag185/EE200_Audio_App.git](https://github.com/Amanag185/EE200_Audio_App.git)
+   git clone [https://github.com/Amanag185/EE200_Project.git](https://github.com/Amanag185/EE200_Project.git)
 2. **Open the uploaded code for two parts**
 3. **Run them in jupyter notebook/ google collab**
 
